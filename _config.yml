@@ -1,11 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: mohd irte<b>za</b>
-
-# Short description (goes below the title; it will also be used in the RSS feed)
-description: I engineer software
+name: autoafs
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Mohd Irteza
+author: Google
 avatar: /images/avatar.PNG
 
 # Your email if you want it to be linked on the contact page
